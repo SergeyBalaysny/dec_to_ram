@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Mar 10 16:21:57 2021
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : dec_to_ram
+Top-level Entity Name : dec_to_ram
+Family : Cyclone IV E
+Device : EP4CE10F17C8
+Timing Models : Final
+Total logic elements : 6,960 / 10,320 ( 67 % )
+    Total combinational functions : 6,592 / 10,320 ( 64 % )
+    Dedicated logic registers : 3,652 / 10,320 ( 35 % )
+Total registers : 3652
+Total pins : 138 / 180 ( 77 % )
+Total virtual pins : 0
+Total memory bits : 16,384 / 423,936 ( 4 % )
+Embedded Multiplier 9-bit elements : 0 / 46 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

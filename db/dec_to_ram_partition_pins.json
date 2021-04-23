@@ -1,0 +1,557 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR0[6]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR0[7]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR0[8]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR0[9]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR0[10]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR0[11]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR0[12]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR0[13]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR0[14]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR0[15]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR1[7]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR1[8]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR1[9]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR1[10]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR1[11]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR1[12]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR1[13]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR1[14]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR1[15]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR2[7]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR2[8]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR2[9]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR2[10]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR2[11]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR2[12]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR2[13]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR2[14]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR2[15]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR3[1]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR3[2]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR3[5]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR3[7]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR3[8]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR3[9]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR3[10]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR3[11]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR3[12]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR3[13]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR3[14]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_OUT_PORT_VECTOR3[15]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_IMP_LASER",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_IMP_GEN",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "p_CLK",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR0[6]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR0[7]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR0[8]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR0[9]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR0[10]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR0[11]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR0[12]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR0[13]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR0[14]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR0[15]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR1[7]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR1[8]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR1[9]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR1[10]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR1[11]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR1[12]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR1[13]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR1[14]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR1[15]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR2[7]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR2[8]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR2[9]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR2[10]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR2[11]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR2[12]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR2[13]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR2[14]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR2[15]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR3[1]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR3[2]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR3[5]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR3[7]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR3[8]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR3[9]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR3[10]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR3[11]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR3[12]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR3[13]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR3[14]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_INP_PORT_VECTOR3[15]",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_GEN_BUTTON_DWN",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_GEN_BUTTON_UP",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_CNTRL_BUTTON_CONT",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_CNTRL_BUTTON_OFF",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_CNTRL_BUTTON_FOUR",
+					"strict" : false
+				},
+				{
+					"name" : "p_EXT_CNTRL_BUTTON_RUN",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

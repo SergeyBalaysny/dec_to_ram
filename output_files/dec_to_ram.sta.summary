@@ -1,0 +1,149 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'channel_imp_module4:\out_gen:0:channel_imp_module4_mod|p_o_rden~en'
+Slack : -11.884
+TNS   : -318.888
+
+Type  : Slow 1200mV 85C Model Setup 'p_CLK'
+Slack : -11.100
+TNS   : -28456.642
+
+Type  : Slow 1200mV 85C Model Setup 'p_EXT_GEN_BUTTON_DWN'
+Slack : -2.413
+TNS   : -7.764
+
+Type  : Slow 1200mV 85C Model Setup 'p_EXT_GEN_BUTTON_UP'
+Slack : -1.690
+TNS   : -5.541
+
+Type  : Slow 1200mV 85C Model Hold 'channel_imp_module4:\out_gen:0:channel_imp_module4_mod|p_o_rden~en'
+Slack : -1.341
+TNS   : -7.460
+
+Type  : Slow 1200mV 85C Model Hold 'p_CLK'
+Slack : 0.283
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'p_EXT_GEN_BUTTON_DWN'
+Slack : 0.497
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'p_EXT_GEN_BUTTON_UP'
+Slack : 0.497
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'p_CLK'
+Slack : -3.201
+TNS   : -5825.408
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'p_EXT_GEN_BUTTON_DWN'
+Slack : -3.000
+TNS   : -11.922
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'p_EXT_GEN_BUTTON_UP'
+Slack : -3.000
+TNS   : -11.922
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'channel_imp_module4:\out_gen:0:channel_imp_module4_mod|p_o_rden~en'
+Slack : 0.369
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'channel_imp_module4:\out_gen:0:channel_imp_module4_mod|p_o_rden~en'
+Slack : -11.336
+TNS   : -303.123
+
+Type  : Slow 1200mV 0C Model Setup 'p_CLK'
+Slack : -10.355
+TNS   : -26232.032
+
+Type  : Slow 1200mV 0C Model Setup 'p_EXT_GEN_BUTTON_DWN'
+Slack : -2.164
+TNS   : -6.703
+
+Type  : Slow 1200mV 0C Model Setup 'p_EXT_GEN_BUTTON_UP'
+Slack : -1.430
+TNS   : -4.497
+
+Type  : Slow 1200mV 0C Model Hold 'channel_imp_module4:\out_gen:0:channel_imp_module4_mod|p_o_rden~en'
+Slack : -1.252
+TNS   : -7.686
+
+Type  : Slow 1200mV 0C Model Hold 'p_CLK'
+Slack : 0.257
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'p_EXT_GEN_BUTTON_DWN'
+Slack : 0.445
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'p_EXT_GEN_BUTTON_UP'
+Slack : 0.445
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'p_CLK'
+Slack : -3.201
+TNS   : -5825.410
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'p_EXT_GEN_BUTTON_DWN'
+Slack : -3.000
+TNS   : -11.922
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'p_EXT_GEN_BUTTON_UP'
+Slack : -3.000
+TNS   : -11.922
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'channel_imp_module4:\out_gen:0:channel_imp_module4_mod|p_o_rden~en'
+Slack : 0.309
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'channel_imp_module4:\out_gen:0:channel_imp_module4_mod|p_o_rden~en'
+Slack : -5.283
+TNS   : -135.112
+
+Type  : Fast 1200mV 0C Model Setup 'p_CLK'
+Slack : -4.052
+TNS   : -10024.162
+
+Type  : Fast 1200mV 0C Model Setup 'p_EXT_GEN_BUTTON_DWN'
+Slack : -0.471
+TNS   : -0.934
+
+Type  : Fast 1200mV 0C Model Setup 'p_EXT_GEN_BUTTON_UP'
+Slack : -0.135
+TNS   : -0.155
+
+Type  : Fast 1200mV 0C Model Hold 'channel_imp_module4:\out_gen:0:channel_imp_module4_mod|p_o_rden~en'
+Slack : -0.741
+TNS   : -4.806
+
+Type  : Fast 1200mV 0C Model Hold 'p_CLK'
+Slack : -0.009
+TNS   : -0.009
+
+Type  : Fast 1200mV 0C Model Hold 'p_EXT_GEN_BUTTON_DWN'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'p_EXT_GEN_BUTTON_UP'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'p_CLK'
+Slack : -3.000
+TNS   : -4041.008
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'p_EXT_GEN_BUTTON_UP'
+Slack : -3.000
+TNS   : -10.116
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'p_EXT_GEN_BUTTON_DWN'
+Slack : -3.000
+TNS   : -9.950
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'channel_imp_module4:\out_gen:0:channel_imp_module4_mod|p_o_rden~en'
+Slack : 0.416
+TNS   : 0.000
+
+------------------------------------------------------------
